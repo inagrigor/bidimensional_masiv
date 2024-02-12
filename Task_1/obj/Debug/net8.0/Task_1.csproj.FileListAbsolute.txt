@@ -12,3 +12,4 @@ C:\Users\PC\Desktop\curs_3_lesson_4_masive_bidimensionale\Task_1\obj\Debug\net8.
 C:\Users\PC\Desktop\curs_3_lesson_4_masive_bidimensionale\Task_1\obj\Debug\net8.0\Task_1.pdb
 C:\Users\PC\Desktop\curs_3_lesson_4_masive_bidimensionale\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
 C:\Users\PC\Desktop\curs_3_lesson_4_masive_bidimensionale\Task_1\obj\Debug\net8.0\ref\Task_1.dll
+C:\Users\PC\Desktop\curs_3_lesson_4_masive_bidimensionale\task_1\obj\Debug\net8.0\Task_1.sourcelink.json
